@@ -10,7 +10,7 @@ h1 {
   color: #fff;
   font-family: Georgia, serif;
   text-shadow: 2px 2px #000;
-  padding-top: .8rem;
+  padding-top: .5rem;
   padding-bottom: .8rem;
 
 }
@@ -28,8 +28,8 @@ a {
 header,
 section,
 footer {
-  padding-top: .7rem;
-  padding-bottom: .7rem;
+  padding-top: 0;
+  padding-bottom: 0;
   background-color: #fff;
 }
 
@@ -41,4 +41,8 @@ footer {
 .border {
   border-bottom: solid 2px #766e66;
   border-top: solid 2px #766e66;
+}
+
+.banner {
+  padding: 0;
 }
