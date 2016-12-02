@@ -1,6 +1,6 @@
-hmtl {
+html {
   font-family: Verdana, sans-serif;
-  background-color: ##bea586;
+  background-color: #bea586;
   background-image: url("../images/sloth-bg.svg");
   background-size: 48px;
 }
@@ -30,6 +30,7 @@ section,
 footer {
   padding-top: .7rem;
   padding-bottom: .7rem;
+  background-color: #fff;
 }
 
 footer {
@@ -39,5 +40,5 @@ footer {
 
 .border {
   border-bottom: solid 2px #766e66;
-  border-top :solid 2px #766e66;
+  border-top: solid 2px #766e66;
 }
